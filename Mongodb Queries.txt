@@ -1,0 +1,83 @@
+ db.workers.find().pretty()
+{
+        "_id" : 200,
+        "empnm" : "jos buttler",
+        "dept" : "assembly",
+        "post" : "mechanic",
+        "city" : "chandrapur",
+        "salary" : 9000,
+        "mobile" : 9472564543,
+        "email" : "josbuttler0@gmail.com"
+}
+{
+        "_id" : 201,
+        "empnm" : "steve smith",
+        "dept" : "assembly",
+        "post" : "manager",
+        "city" : "yavatmal",
+        "salary" : 12000,
+        "mobile" : 734687245,
+        "email" : "stevesmith11@gmail.com"
+}
+{
+        "_id" : 202,
+        "empnm" : "amir khan",
+        "dept" : "database",
+        "post" : "dba",
+        "city" : "yavatmal",
+        "salary" : 35000,
+        "mobile" : 7346865785,
+        "email" : "amirkhan@gmail.com"
+}
+{
+        "_id" : 203,
+        "empnm" : "zaheer khan",
+        "dept" : "development",
+        "post" : "programmer",
+        "city" : "nagpur",
+        "salary" : 25000,
+        "mobile" : 9257552175,
+        "email" : "zaheerkhan23@gmail.com"
+}
+{
+        "_id" : 204,
+        "empnm" : "ben stokes",
+        "dept" : "marketing",
+        "post" : "executive",
+        "city" : "nagpur",
+        "salary" : 40000,
+        "mobile" : 9253574678,
+        "email" : "benstokes67@gmail.com"
+}
+{
+        "_id" : 205,
+        "empnm" : "ravi shastri",
+        "dept" : "admin",
+        "post" : "manager",
+        "city" : "aurangabad",
+        "salary" : 32000,
+        "mobile" : 9253345678,
+        "email" : "ravishastri23@gmail.com"
+}
+{
+        "_id" : 206,
+        "empnm" : "rekha sawant",
+        "dept" : "accounts",
+        "post" : "cashier",
+        "city" : "pune",
+        "salary" : 45000,
+        "mobile" : 9947625264,
+        "email" : "rekhasawant34@gmail.com"
+}
+>
+
+
+
+
+
+
+
+
+
+
+
